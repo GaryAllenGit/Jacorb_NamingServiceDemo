@@ -1,0 +1,13 @@
+// Count.idl
+
+module CounterPortable
+{
+  interface Count
+  { attribute long sum;
+    long increment();
+  };
+}; 
+
+
+
+
