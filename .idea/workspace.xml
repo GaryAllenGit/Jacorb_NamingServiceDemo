@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22d560d5-297c-4b42-8db0-2d6a56c23245" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,7 +47,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NamingDemoWithIORInFileClient">
+  <component name="RunManager" selected="Application.CountPortableClient">
     <configuration name="CountPortableClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CountPortableClient" />
       <module name="Jacorb_NamingServiceDemo" />
@@ -89,10 +88,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NamingDemoWithIORInFileClient" />
-        <item itemvalue="Application.NamingDemoWithIORInFileServer" />
         <item itemvalue="Application.CountPortableClient" />
         <item itemvalue="Application.CountPortableServer" />
+        <item itemvalue="Application.NamingDemoWithIORInFileClient" />
+        <item itemvalue="Application.NamingDemoWithIORInFileServer" />
       </list>
     </recent_temporary>
   </component>
@@ -111,6 +110,7 @@
       <workItem from="1573211513857" duration="1228000" />
       <workItem from="1573213023078" duration="91000" />
       <workItem from="1573213156196" duration="200000" />
+      <workItem from="1573811312453" duration="315000" />
     </task>
     <servers />
   </component>

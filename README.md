@@ -25,7 +25,7 @@ To run the demo:
 e.g. I would type:
 
     cd src
-    /spare/jacorb-3.9/bin/idl count.idl
+    /local/jacorb-3.9/bin/idl count.idl
     
 3.  Start the Jacorb naming service by typing the following into the same (or a new) terminal:
 
@@ -35,7 +35,7 @@ e.g. I would type:
 
 e.g. I would type:
 
-    cd /spare/jacorb-3.9/bin
+    cd /local/jacorb-3.9/bin
     ns -Djacorb.naming.ior_filename=/home/scomga/nameserver.ior
 
 
@@ -53,7 +53,7 @@ e.g. mine would be:
 
     -ORBInitRef.NameService=file:/home/scomga/nameserver.ior
 
-4.  Start the Server and then run the Client.  The server persists so has to be stopped externally.
+5.  Start the Server and then run the Client.  The server persists so has to be stopped externally.
 
 
 
